@@ -34,7 +34,7 @@ I'm open to collaborating on web development projects, AI-based solutions, and o
 
 ### 📫 How to Reach Me:
 - **Email:** jayshinde4554@gmail.com
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jayshinde)
+- **LinkedIn:** [Connect with me](linkedin.com/in/jay-shinde-b5634325a)
 - **GitHub:** [Check out my repositories](https://github.com/jayshinde4554)
 - **X (formerly Twitter):** [Follow me](https://x.com/JayShin18755555)
 
