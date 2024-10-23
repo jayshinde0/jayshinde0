@@ -22,6 +22,7 @@ I’m currently pursuing my Bachelor of Technology in Computer Science at [K. K.
   - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
   - ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
   - ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![180730256-d5dfc75d-5a54-4f7a-bec8-beb127e988ac](https://github.com/user-attachments/assets/b2180d1e-32e9-4638-8c5e-c9f663c4d984)
 
 - **⚙️ Tools & Frameworks:**
   - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
