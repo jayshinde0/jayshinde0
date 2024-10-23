@@ -12,7 +12,7 @@ I’m currently pursuing my Bachelor of Technology in Computer Science at [K. K.
   - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![DBMS](https://img.shields.io/badge/DBMS-003B57?style=flat&logo=mysql&logoColor=white)
+  - ![DBMS](https://img.shields.io/badge/DBMS-003B57?style=flat&logo=mysql&logoColor=white)
   
 - **🌐 Web Development:**
   - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -24,7 +24,6 @@ I’m currently pursuing my Bachelor of Technology in Computer Science at [K. K.
   - ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 - **⚙️ Tools & Frameworks:**
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
   - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
@@ -37,8 +36,8 @@ I'm open to collaborating on web development projects, AI-based solutions, and o
 - **Email:** jayshinde4554@gmail.com
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jayshinde)
 - **GitHub:** [Check out my repositories](https://github.com/jayshinde4554)
+- **X (formerly Twitter):** [Follow me](https://x.com/JayShin18755555)
 
----
 ---
 
 **Thanks for visiting my profile!**  
