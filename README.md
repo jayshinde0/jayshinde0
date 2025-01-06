@@ -4,8 +4,6 @@
 
 I’m currently pursuing my Bachelor of Technology in Computer Science at [K. K. Wagh Institute of Engineering Education and Research (KKWIEER)](https://www.kkwagh.edu.in/), and I’m passionate about building web applications that solve real-world problems.
 
-pment projects, AI-based solutions, and other exciting open-source ventures.
-
 ---
 
 ### 📫 How to Reach Me:
