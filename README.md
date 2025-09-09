@@ -1,8 +1,21 @@
 # 👋 Hi, I'm Jay Shinde
 
-**B.Tech Computer Science Student at KKWIEER | Web Development Enthusiast**
+**B.Tech Computer Science Student at KKWIEER | Aspiring Full-Stack Developer & Problem Solver**
 
-I’m currently pursuing my Bachelor of Technology in Computer Science at [K. K. Wagh Institute of Engineering Education and Research (KKWIEER)](https://www.kkwagh.edu.in/), and I’m passionate about building web applications that solve real-world problems.
+I am an enthusiastic Computer Science undergraduate at K. K. Wagh Institute of Engineering Education and Research (KKWIEER) , passionate about designing and developing efficient, scalable, and user-focused web applications.
+
+## About Me
+
+🎓 Education: B.Tech in Computer Science
+
+💻 Technical Skills: JavaScript, React, Node.js, Express, MongoDB, SQL
+
+🌱 Currently Exploring: Full-Stack Development & Cloud Integration
+
+🧠 Core Knowledge: Data Structures & Algorithms, OOP, Database Management Systems
+
+🤝 Collaboration: Open to internships, team projects, and open-source contributions
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay_shinde__10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-shinde-b5634325a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JayShin755555) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayshinde4554@gmail.com) 
