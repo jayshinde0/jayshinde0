@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jay Shinde
+# 👋 Hi, I'm Jay Shinde.
 
 **B.Tech Computer Science Student at KKWIEER | Aspiring Full-Stack Developer & Problem Solver**
 
