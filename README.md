@@ -46,17 +46,9 @@ I am an enthusiastic Computer Science undergraduate at **K. K. Wagh Institute of
 
 ---
 
-![](https://komarev.com/ghpvc/?username=jayshinde0&color=blue)
-
----
 
 # 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=jayshinde0&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jayshinde0&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayshinde0&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jayshinde0&limit=5&theme=dark&combine_all_yearly_contributions=true)
