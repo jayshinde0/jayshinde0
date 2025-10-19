@@ -1,36 +1,62 @@
-# 👋 Hi, I'm Jay Shinde.
+# 👋 Hi, I'm Jay Shinde
 
-**B.Tech Computer Science Student at KKWIEER | Aspiring Full-Stack Developer & Problem Solver**
+**GSSOC’25 Contributor | B.Tech Computer Science Student at KKWIEER | Web Development | DSA | MERN | Next.js**
 
-I am an enthusiastic Computer Science undergraduate at K. K. Wagh Institute of Engineering Education and Research (KKWIEER) , passionate about designing and developing efficient, scalable, and user-focused web applications.
+I am an enthusiastic Computer Science undergraduate at **K. K. Wagh Institute of Engineering Education and Research (KKWIEER)**, passionate about designing and developing efficient, scalable, and user-focused web applications.
 
-## About Me
+---
 
-🎓 Education: B.Tech in Computer Science
+## 🧑‍💻 About Me
 
-💻 Technical Skills: JavaScript, React, Node.js, Express, MongoDB, SQL
+🎓 **Education:** B.Tech in Computer Science  
+💻 **Technical Skills:** JavaScript, React, Node.js, Express, MongoDB, SQL  
+🌱 **Currently Exploring:** Full-Stack Development & Cloud Integration  
+🧠 **Core Knowledge:** Data Structures & Algorithms, OOP, Database Management Systems  
+🤝 **Collaboration:** Open to internships, team projects, and open-source contributions  
 
-🌱 Currently Exploring: Full-Stack Development & Cloud Integration
+---
 
-🧠 Core Knowledge: Data Structures & Algorithms, OOP, Database Management Systems
+## 📄 [**Resume**](https://drive.google.com/file/d/1AALu2yEA-e2RCJklmE7gZNfRz-giJZIe/view?usp=sharing)
 
-🤝 Collaboration: Open to internships, team projects, and open-source contributions
+---
+## 💻 Tech Stack
 
+**Programming Languages:**  
+`Python` `Java` `C` `C++` `JavaScript` `PHP`
+
+**Frontend Development:**  
+`HTML` `CSS` `React` `Next.js` `TailwindCSS` `Bootstrap` `WordPress`
+
+**Backend Frameworks:**  
+`Node.js` `Express.js` `Django`
+
+**Databases:**  
+`MySQL` `PostgreSQL` `SQLite` `MongoDB`
+
+**Developer Tools:**  
+`VS Code` `GitHub` `Android Studio` `Postman` `Git`
+
+---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay_shinde__10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-shinde-b5634325a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JayShin755555) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayshinde4554@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay_shinde__10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-shinde-b5634325a)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JayShin755555)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayshinde4554@gmail.com)
 
-[**Resume** ](https://drive.google.com/file/d/1j4-bzwLu8Fr3UTOwClUkZf67mX9-oj1J/view)
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br>
+---
+
 ![](https://komarev.com/ghpvc/?username=jayshinde0&color=blue)
-# 📊 GitHub Stats:
+
+---
+
+# 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=jayshinde0&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jayshinde0&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayshinde0&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jayshinde0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
