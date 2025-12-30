@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jay Shinde
 
-**GSSOC’25 Contributor | B.Tech Computer Science Student at KKWIEER | Web Development | DSA | MERN | Next.js**
+**NASA Space Apps Global Nominee 🌍| GSSOC’25 Contributor | B.Tech Computer Science Student at KKWIEER | Web Development | DSA | MERN | Next.js**
 
 I am an enthusiastic Computer Science undergraduate at **K. K. Wagh Institute of Engineering Education and Research (KKWIEER)**, passionate about designing and developing efficient, scalable, and user-focused web applications.
 
