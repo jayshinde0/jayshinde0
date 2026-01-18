@@ -47,8 +47,3 @@ I am an enthusiastic Computer Science undergraduate at **K. K. Wagh Institute of
 ---
 
 
-# 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=jayshinde0&theme=dark&hide_border=true)<br/>
-
----
-
