@@ -16,7 +16,7 @@ I am an enthusiastic Computer Science undergraduate at **K. K. Wagh Institute of
 
 ---
 
-## 📄 [**Resume**](https://drive.google.com/file/d/14vj1-UNpps8QzpiPGAKxwz4HEYf5bg9r/view?usp=sharing)
+## 📄 [**Resume**](https://drive.google.com/file/d/1MNcwYJlHys3Ekx0g7vmNK6GlFjAjtE7B/view?usp=sharing)
 
 ---
 ## 💻 Tech Stack
