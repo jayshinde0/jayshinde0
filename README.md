@@ -1,49 +1,81 @@
-# 👋 Hi, I'm Jay Shinde
+#  Hi, I'm Jay Shinde
 
-**NASA Space Apps Global Nominee 🌍| GSSOC’25 Contributor | B.Tech Computer Science Student at KKWIEER | Web Development | DSA | MERN | Next.js**
+**AI & Full-Stack Developer | Backend & RAG Systems | Open Source Contributor (Apertre 3.0) | NASA Space Apps Global Nominee 🌍**
 
-I am an enthusiastic Computer Science undergraduate at **K. K. Wagh Institute of Engineering Education and Research (KKWIEER)**, passionate about designing and developing efficient, scalable, and user-focused web applications.
-
----
-
-## 🧑‍💻 About Me
-
-🎓 **Education:** B.Tech in Computer Science  
-💻 **Technical Skills:** JavaScript, React, Node.js, Express, MongoDB, SQL  
-🌱 **Currently Exploring:** Full-Stack Development & Cloud Integration  
-🧠 **Core Knowledge:** Data Structures & Algorithms, OOP, Database Management Systems  
-🤝 **Collaboration:** Open to internships, team projects, and open-source contributions  
+B.Tech Computer Science student passionate about building intelligent, scalable, and secure systems.  
+I enjoy working on AI-powered applications, backend architectures, and production-ready full-stack platforms.
 
 ---
 
-## 📄 [**Resume**](https://drive.google.com/file/d/1MNcwYJlHys3Ekx0g7vmNK6GlFjAjtE7B/view?usp=sharing)
+## 🚀 What I Work On
+
+- 🤖 Retrieval-Augmented Generation (RAG) Systems  
+- 🔐 Backend Authentication & Authorization (JWT, RBAC, WebSockets)  
+- 🌐 Full-Stack Applications (MERN, Next.js)  
+- 📊 Analytics & Performance Tracking Systems  
+- 🧠 Machine Learning Pipelines  
 
 ---
-## 💻 Tech Stack
 
-**Programming Languages:**  
-`Python` `Java` `C` `C++` `JavaScript` `PHP`
+## 🧑‍💻 Highlight Projects
 
-**Frontend Development:**  
-`HTML` `CSS` `React` `Next.js` `TailwindCSS` `Bootstrap` `WordPress`
+### 🧠 StudyAssist AI
+RAG-based adaptive learning platform using a local Mistral LLM (Ollama).  
+- Quiz generation from PDFs, DOCX, TXT, YouTube transcripts  
+- Embedding-based retrieval & prompt engineering  
+- Topic mastery tracking & adaptive revision scheduling  
 
-**Backend Frameworks:**  
+### 💻 InterviewAce
+AI-powered interview preparation platform.  
+- Secure JWT authentication  
+- Real-time coding practice module  
+- Performance analytics dashboard  
+
+### 📘 BloomQGen
+Machine Learning-based question paper generator.  
+- Random Forest & Linear Regression models  
+- Bloom’s Taxonomy classification  
+- Model evaluation & cross-validation  
+
+---
+
+## 🏗️ Tech Stack
+
+### Languages
+`Python` `JavaScript` `Java` `C++` `C`
+
+### Frontend
+`React` `Next.js` `Tailwind CSS` `Bootstrap`
+
+### Backend
 `Node.js` `Express.js` `Django`
 
-**Databases:**  
-`MySQL` `PostgreSQL` `SQLite` `MongoDB`
+### AI / ML
+`Scikit-learn` `RAG` `LLM Integration` `Prompt Engineering`
 
-**Developer Tools:**  
-`VS Code` `GitHub` `Android Studio` `Postman` `Git`
+### Databases
+`MongoDB` `MySQL` `PostgreSQL` `SQLite`
 
----
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay_shinde__10)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-shinde-b5634325a)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/JayShin755555)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayshinde4554@gmail.com)
+### Tools
+`Git` `GitHub` `Postman` `VS Code`
 
 ---
 
+## 🌍 Open Source
 
+🔹 Contributed to **Apertre 3.0**  
+- Implemented JWT-based WebSocket authentication  
+- Built RBAC and resource-level authorization  
+- Strengthened backend security architecture  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/jay-shinde-b5634325a  
+- 📧 Email: jayshinde4554@gmail.com  
+- 🌐 Portfolio: https://jayshindeportfolio.netlify.app  
+
+---
+
+⭐ Always open to collaborating on AI, backend, and full-stack projects.
